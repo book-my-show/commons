@@ -1,4 +1,4 @@
-module bookmyshow.com/commons
+module github.com/book-my-show/commons
 
 go 1.25.3
 
